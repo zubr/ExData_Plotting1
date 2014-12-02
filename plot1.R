@@ -5,6 +5,6 @@ hist(as.numeric(as.character(dat$Global_active_power)), xlab="Global Active Powe
 dev.off()
 
 #The plot itself may be viewed after clicking on https://github.com/zubr/ExData_Plotting1
-#then click on "... commits" and the plot is attached as a comment to commit "Update plot1.R"
+#then click on "... commits" and the plot is attached as a comment to the latest commit "Update plot1.R"
 #Sorry for that but I cannot install github on my pc (windows XP) and there seem to be no
 #other option to download a chart on github (i.e. without cloning the repo in desktop).
